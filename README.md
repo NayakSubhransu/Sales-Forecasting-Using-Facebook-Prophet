@@ -73,8 +73,9 @@ The dataset consists of **two files**:
 
 * Built store-specific models using Prophet’s **additive regression** approach:
 
-  <img width="909" height="278" alt="image" src="https://github.com/user-attachments/assets/ffc433a2-2413-48e0-8c77-d968be3ed00b" />
+<img width="1076" height="651" alt="image" src="https://github.com/user-attachments/assets/40ccdb2e-1c2f-4bb8-a36e-95d352b37101" />
 
+<img width="909" height="278" alt="image" src="https://github.com/user-attachments/assets/ffc433a2-2413-48e0-8c77-d968be3ed00b" />
 
 
 * Used Prophet parameters:
