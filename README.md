@@ -72,7 +72,9 @@ The dataset consists of **two files**:
 ###  Forecasting Model – Facebook Prophet
 
 * Built store-specific models using Prophet’s **additive regression** approach:
-<img width="758" height="273" alt="image" src="https://github.com/user-attachments/assets/12b88b1a-e4e3-4146-aac6-e64babbc7f50" />
+
+  <img width="909" height="278" alt="image" src="https://github.com/user-attachments/assets/ffc433a2-2413-48e0-8c77-d968be3ed00b" />
+
 
 
 * Used Prophet parameters:
