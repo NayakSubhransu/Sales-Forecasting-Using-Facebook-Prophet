@@ -72,17 +72,8 @@ The dataset consists of **two files**:
 ###  Forecasting Model – Facebook Prophet
 
 * Built store-specific models using Prophet’s **additive regression** approach:
+<img width="758" height="273" alt="image" src="https://github.com/user-attachments/assets/12b88b1a-e4e3-4146-aac6-e64babbc7f50" />
 
-  [
-  y(t) = g(t) + s(t) + h(t) + \epsilon_t
-  ]
-
-  where
-
-  * (g(t)): trend component
-  * (s(t)): seasonal effects (weekly/yearly)
-  * (h(t)): holiday effects
-  * (\epsilon_t): random error
 
 * Used Prophet parameters:
 
