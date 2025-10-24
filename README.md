@@ -7,6 +7,8 @@ The goal is to enable the sales department to make **data-driven decisions** in 
 
 The model leverages **Facebook Prophet**, an open-source forecasting tool developed by **Meta’s Core Data Science team**, which excels at capturing **seasonal patterns, trends, holidays, and promotions**.
 
+<img width="1109" height="719" alt="image" src="https://github.com/user-attachments/assets/08c006fa-ae6e-456f-882d-5d09baf5be43" />
+
 ---
 
 ##  **Objective**
